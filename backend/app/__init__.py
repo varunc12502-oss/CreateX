@@ -1,0 +1,1 @@
+"""CreateX FastAPI application package."""
